@@ -14,10 +14,7 @@ I'm a Data Engineer building real-time streaming pipelines, scalable ETL workflo
 ## 🔹 Technical Skills
 
 **Programming & Scripting:**  
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=000000)  
-![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat&logo=postgresql&logoColor=ffffff)  
-![PySpark](https://img.shields.io/badge/-PySpark-EE0000?style=flat&logo=apache-spark&logoColor=ffffff)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=ffffff)  
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=000000)  ![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat&logo=postgresql&logoColor=ffffff)  ![PySpark](https://img.shields.io/badge/-PySpark-EE0000?style=flat&logo=apache-spark&logoColor=ffffff)  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=ffffff)  
 
 **Databases & Warehousing:**  
 ![Snowflake](https://img.shields.io/badge/-Snowflake-0099FF?style=flat&logo=snowflake&logoColor=ffffff)  
