@@ -9,10 +9,7 @@ I transform **raw data into actionable insights** and build **scalable, robust d
 ---
 
 ## 🔹 About Me
-- 🚀 Experienced in **AWS, PySpark, Databricks, Snowflake, and BigQuery**  
-- 🛠 Skilled in **real-time streaming pipelines, batch ETL, and data warehousing**  
-- 📊 Passionate about **data quality, automation, and analytics**  
-- 🤝 Collaborated with **cross-functional teams** to deliver **business-critical insights**  
+I'm a Data Engineer building real-time streaming pipelines, scalable ETL workflows, and cloud data warehouses on Azure and AWS. Expert in PySpark, SQL, Snowflake, ADF, and Databricks, delivering measurable improvements in data quality, performance, and operational  efficiency while enabling analytics and ML-driven insights.
 
 ---
 
