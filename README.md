@@ -13,29 +13,34 @@ I'm a Data Engineer building real-time streaming pipelines, scalable ETL workflo
 
 ## 🔹 Technical Skills
 
-### **Languages & Scripting**
-| Python | SQL | PySpark | Bash |
-|--------|--------|-----------|--------|
-| 🟦🟦🟦🟦🟦 | 🟦🟦🟦🟦🟦 | 🟦🟦🟦🟦🟦 | 🟦🟦🟦🟦⬜ |
+**Programming & Scripting:**  
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat&logo=python&logoColor=000000)  
+![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat&logo=postgresql&logoColor=ffffff)  
+![PySpark](https://img.shields.io/badge/-PySpark-EE0000?style=flat&logo=apache-spark&logoColor=ffffff)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=ffffff)  
 
----
+**Databases & Warehousing:**  
+![Snowflake](https://img.shields.io/badge/-Snowflake-0099FF?style=flat&logo=snowflake&logoColor=ffffff)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff)  
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=google-bigquery&logoColor=ffffff)  
 
-### **Cloud Platforms**
-| Azure | AWS | GCP |
-|--------|--------|--------|
-| 🟦🟦🟦🟦🟦 | 🟦🟦🟦🟦🟦 | 🟦🟦🟦⬜⬜ |
+**Big Data & ETL:**  
+![Databricks](https://img.shields.io/badge/-Databricks-FC6D26?style=flat&logo=databricks&logoColor=ffffff)  
+![Spark](https://img.shields.io/badge/-Apache_Spark-EE0000?style=flat&logo=apache-spark&logoColor=ffffff)  
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=000000)  
+![ADF](https://img.shields.io/badge/-Azure_Data_Factory-0078D7?style=flat&logo=microsoft-azure&logoColor=ffffff)  
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=ffffff)  
 
----
+**Cloud Platforms & Tools:**  
+![Azure](https://img.shields.io/badge/-Azure-0078D7?style=flat&logo=microsoft-azure&logoColor=ffffff)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)  
+![CI/CD](https://img.shields.io/badge/-CI/CD-FF5733?style=flat&logo=github&logoColor=ffffff)  
 
-### **Big Data & ETL Tools**
-| Databricks | Spark | Snowflake | ADF | Airflow | Hadoop |
-|------------|--------|-------------|-------|----------|----------|
-| 🟦🟦🟦🟦🟦 | 🟦🟦🟦🟦🟦 | 🟦🟦🟦🟦🟦 | 🟦🟦🟦🟦🟦 | 🟦🟦🟦🟦⬜ | 🟦🟦🟦⬜⬜ |
-
----
-
-### **Visualization**
-Power BI • Looker • Excel • Matplotlib  
+**Visualization & Analytics:**  
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=power-bi&logoColor=ffffff)  
+![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker&logoColor=ffffff)  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=ffffff)  
 
 ---
 
