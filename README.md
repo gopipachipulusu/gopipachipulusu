@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gopipachipulusu.gopipachipulusu" />
 # Hi there, I'm Gopi Krishna 👋
 
 💻 **Data Engineer | Cloud & Big Data Specialist | ETL & Analytics Expert**
