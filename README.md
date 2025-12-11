@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<# Hi there, I'm Gopi Krishna 👋
+## Hi, I'm Gopi Krishna 👋
 
 💻 **Data Engineer | Big Data & Cloud Enthusiast | ETL & Analytics**
 
